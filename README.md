@@ -18,6 +18,14 @@ Our goal is to fully recreate Ben Eater's 8-bit computer from scratch using brea
 
 ## 📁 Repository Structure
 
+-  Domucmentation
+    --> skematics
+    --> logical design
+-  Eprom code
+-  pictures
+    --> individual modules
+    --> general pictures
+    --> demo video
 
 ---
 
